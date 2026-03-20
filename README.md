@@ -41,7 +41,7 @@ How to Run
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/repo-name.git
+git clone (https://github.com/dabhishek0410-spec/Serene_Scents_Financial_Forecasting.git)
 Install dependencies:
 
 Bash
